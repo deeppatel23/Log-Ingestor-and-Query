@@ -1,0 +1,4 @@
+com/org/persistence/repositories/MetadataRepository.class
+com/org/persistence/repositories/LogRepository.class
+com/org/persistence/models/Logs.class
+com/org/persistence/models/Metadata.class

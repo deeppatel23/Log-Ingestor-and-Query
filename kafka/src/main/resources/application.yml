@@ -1,0 +1,4 @@
+kafka:
+  bootstrapAddress: "localhost:9092"
+  topic: "logger-consumer-1"
+  groupId: "1"

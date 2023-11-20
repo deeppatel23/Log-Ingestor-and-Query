@@ -1,0 +1,6 @@
+com/org/kafka/config/KafkaBeanProvider.class
+com/org/kafka/config/KafkaConfig.class
+com/org/kafka/models/MetaData.class
+com/org/kafka/models/Log.class
+com/org/kafka/clients/KafkaProducer.class
+com/org/kafka/clients/KafkaConsumer.class

@@ -81,6 +81,8 @@ Note That the filter can be a single as well as a combination of any number of p
 - traceId
 - spanId
 - commit
+- fromDate
+- toDate
 
 
 ### APIs Exposed
@@ -153,7 +155,6 @@ cd november-2023-hiring-deeppatel23/logging-and-query-system
 * Elasticsearch for Full-Text Queries: The planned integration of Elasticsearch as a NoSQL database specifically caters to full-text query needs, ensuring scalability and adaptability to evolving requirements.
 
 ### Future Enhancements
-* Timestamp-based query implementation to fetch data between Time1 and Time2 and also to give features like fetch logs of past x minutes / past x hours / past x days.
 
 * Real-Time Monitoring and Alerts: Implement a real-time monitoring system to detect anomalies or critical events in the log data.
   Introduce alerting mechanisms to notify stakeholders or administrators about specific log patterns or issues.

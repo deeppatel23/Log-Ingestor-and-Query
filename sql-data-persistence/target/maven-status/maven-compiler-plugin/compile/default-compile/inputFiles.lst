@@ -1,4 +1,4 @@
-/Users/deeppatel/Desktop/logging-system-history/Log-Ingestor-and-Query/sql-data-persistence/src/main/java/com/org/persistence/models/Logs.java
-/Users/deeppatel/Desktop/logging-system-history/Log-Ingestor-and-Query/sql-data-persistence/src/main/java/com/org/persistence/models/Metadata.java
-/Users/deeppatel/Desktop/logging-system-history/Log-Ingestor-and-Query/sql-data-persistence/src/main/java/com/org/persistence/repositories/MetadataRepository.java
-/Users/deeppatel/Desktop/logging-system-history/Log-Ingestor-and-Query/sql-data-persistence/src/main/java/com/org/persistence/repositories/LogRepository.java
+/Users/deeppatel/Desktop/Log-Ingestor-and-Query/sql-data-persistence/src/main/java/com/org/persistence/models/Logs.java
+/Users/deeppatel/Desktop/Log-Ingestor-and-Query/sql-data-persistence/src/main/java/com/org/persistence/repositories/MetadataRepository.java
+/Users/deeppatel/Desktop/Log-Ingestor-and-Query/sql-data-persistence/src/main/java/com/org/persistence/repositories/LogRepository.java
+/Users/deeppatel/Desktop/Log-Ingestor-and-Query/sql-data-persistence/src/main/java/com/org/persistence/models/Metadata.java

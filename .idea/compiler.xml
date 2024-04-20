@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="data-logging-service" />
         <module name="sql-data-persistence" />
+        <module name="elasticsearch" />
         <module name="data-query-service" />
         <module name="kafka" />
       </profile>
